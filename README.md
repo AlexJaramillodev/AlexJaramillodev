@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, me llamo Adrian Jaramillo</h1>
 <h3 align="center">Soy un Desarrollador Web Jr</h3>
 
-- 🌱 Estoy actualmente trabajando conen **HTML, CSS, JavaScript, React, Node.Js, Express, MongoDb**
+- 🌱 Estoy actualmente trabajando con **HTML, CSS, JavaScript, React, Node.Js, Express, MongoDb**
 
 - 📫 Como me puedes contactar **adrianjagudelo@gmail.com**
 
